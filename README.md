@@ -1,4 +1,4 @@
-##For X3NAmbience Color Corrections Base
+##For X3N Color Corrections Base
 Simply all you need to do is rename the main folder, to whatever you color correction addon should be called
 
 Then go into the "\lua\colorcorrections" folder and just add the .lua files you created here and your done!
